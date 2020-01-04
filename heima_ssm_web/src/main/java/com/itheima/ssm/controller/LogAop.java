@@ -2,7 +2,6 @@ package com.itheima.ssm.controller;
 
 import com.itheima.ssm.domain.SysLog;
 import com.itheima.ssm.service.ISysLogService;
-import com.itheima.ssm.utils.DateUtils;
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.After;
 import org.aspectj.lang.annotation.Aspect;
