@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc6cbe7-8291-4d6e-bffd-d121cf10d732" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +156,7 @@
       <workItem from="1577961193639" duration="14743000" />
       <workItem from="1578025177514" duration="22070000" />
       <workItem from="1578115244301" duration="1452000" />
-      <workItem from="1578117432642" duration="15839000" />
+      <workItem from="1578117432642" duration="16421000" />
     </task>
     <task id="LOCAL-00001" summary="commit test">
       <created>1578133428589</created>
@@ -165,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578133428590</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit README.md">
+      <created>1578133629406</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578133629406</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +191,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit test" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit test" />
+    <MESSAGE value="commit README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit README.md" />
   </component>
 </project>
