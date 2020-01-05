@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc6cbe7-8291-4d6e-bffd-d121cf10d732" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/manager.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_dao/target/heima_ssm_dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_dao/target/heima_ssm_dao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_dao/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_dao/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_domain/target/heima_ssm_domain-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_domain/target/heima_ssm_domain-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_domain/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_domain/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_service/target/heima_ssm_service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_service/target/heima_ssm_service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_utils/target/heima_ssm_utils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_utils/target/heima_ssm_utils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_utils/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_utils/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_web/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,9 +70,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.29589373" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -159,7 +167,10 @@
       <workItem from="1577961193639" duration="14743000" />
       <workItem from="1578025177514" duration="22070000" />
       <workItem from="1578115244301" duration="1452000" />
-      <workItem from="1578117432642" duration="18479000" />
+      <workItem from="1578117432642" duration="19254000" />
+      <workItem from="1578153442952" duration="6000" />
+      <workItem from="1578153469336" duration="10000" />
+      <workItem from="1578215232220" duration="745000" />
     </task>
     <task id="LOCAL-00001" summary="commit test">
       <created>1578133428589</created>
@@ -182,7 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578134238916</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add manager.sql">
+      <created>1578136276245</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578136276245</updated>
+    </task>
+    <task id="LOCAL-00005" summary="delete src">
+      <created>1578136353549</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578136353549</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,7 +218,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -203,6 +230,8 @@
     <MESSAGE value="commit test" />
     <MESSAGE value="commit README.md" />
     <MESSAGE value="change language to java" />
-    <option name="LAST_COMMIT_MESSAGE" value="change language to java" />
+    <MESSAGE value="add manager.sql" />
+    <MESSAGE value="delete src" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete src" />
   </component>
 </project>
