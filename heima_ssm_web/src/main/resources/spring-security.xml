@@ -38,6 +38,7 @@
 
     </security:http>
 
+
     <!-- 切换成数据库中的用户名和密码 -->
     <security:authentication-manager>
         <security:authentication-provider user-service-ref="userService">

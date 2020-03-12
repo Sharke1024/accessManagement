@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bc6cbe7-8291-4d6e-bffd-d121cf10d732" name="Default Changelist" comment="">
+    <list default="true" id="1bc6cbe7-8291-4d6e-bffd-d121cf10d732" name="Default Changelist" comment="change some file">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima_ssm_dao/target/heima_ssm_dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_dao/target/heima_ssm_dao-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima_ssm_dao/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_dao/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima_ssm_domain/target/heima_ssm_domain-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_domain/target/heima_ssm_domain-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima_ssm_domain/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_domain/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima_ssm_service/target/heima_ssm_service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_service/target/heima_ssm_service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima_ssm_service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_service/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima_ssm_utils/target/heima_ssm_utils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_utils/target/heima_ssm_utils-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima_ssm_utils/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_utils/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima_ssm_web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_dao/heima_ssm_dao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_dao/src/main/java/com/itheima/ssm/dao/ISysLogDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_dao/src/main/java/com/itheima/ssm/dao/ISysLogDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_domain/heima_ssm_domain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/Permission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/SysLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/SysLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/Traveller.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/Traveller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/UserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_service/heima_ssm_service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_utils/heima_ssm_utils.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_utils/src/main/java/com/itheima/ssm/utils/BCryptPasswordEncoderUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_utils/src/main/java/com/itheima/ssm/utils/BCryptPasswordEncoderUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_web/heima_ssm_web.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_web/src/main/java/com/itheima/ssm/controller/LogAop.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_web/src/main/java/com/itheima/ssm/controller/LogAop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_web/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_web/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima_ssm_web/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/heima_ssm_web/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +75,12 @@
   </component>
   <component name="ProjectId" id="1VePqxLUWMXxmYan3oIDcxryEZO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -73,7 +91,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.29589373" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -83,18 +101,6 @@
       <recent name="D:\IdeaProjects\heima_ssm\heima_ssm_web\src\main\webapp\img" />
       <recent name="D:\IdeaProjects\heima_ssm\heima_ssm_web\src\main\resources" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Maven.heima-ssm-web">
     <configuration name="BCryptPasswordEncoderUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -170,7 +176,17 @@
       <workItem from="1578117432642" duration="19254000" />
       <workItem from="1578153442952" duration="6000" />
       <workItem from="1578153469336" duration="10000" />
-      <workItem from="1578215232220" duration="745000" />
+      <workItem from="1578215232220" duration="1332000" />
+      <workItem from="1578216576046" duration="4631000" />
+      <workItem from="1578285510161" duration="11000" />
+      <workItem from="1578295750530" duration="2302000" />
+      <workItem from="1578298482479" duration="1795000" />
+      <workItem from="1578372729761" duration="57000" />
+      <workItem from="1580985960350" duration="2822000" />
+      <workItem from="1581040499507" duration="34000" />
+      <workItem from="1581645352597" duration="135000" />
+      <workItem from="1583745892317" duration="386000" />
+      <workItem from="1583979004192" duration="730000" />
     </task>
     <task id="LOCAL-00001" summary="commit test">
       <created>1578133428589</created>
@@ -207,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578136353549</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="change some file">
+      <created>1578216043768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578216043768</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change some file1">
+      <created>1578216081644</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578216081644</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +262,30 @@
     <MESSAGE value="change language to java" />
     <MESSAGE value="add manager.sql" />
     <MESSAGE value="delete src" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete src" />
+    <MESSAGE value="change some file" />
+    <MESSAGE value="change some file1" />
+    <option name="LAST_COMMIT_MESSAGE" value="change some file1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="338" y="9" key="CommitChangelistDialog2" timestamp="1583979078963">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583979078963" />
+    <state width="1493" height="380" key="GridCell.Tab.0.bottom" timestamp="1583746278592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="380" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583746278592" />
+    <state width="1493" height="380" key="GridCell.Tab.0.center" timestamp="1583746278592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="380" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583746278592" />
+    <state width="1493" height="380" key="GridCell.Tab.0.left" timestamp="1583746278592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="380" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583746278592" />
+    <state width="1493" height="380" key="GridCell.Tab.0.right" timestamp="1583746278592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="380" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583746278592" />
   </component>
 </project>

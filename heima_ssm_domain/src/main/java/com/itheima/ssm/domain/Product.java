@@ -11,9 +11,9 @@ import java.util.Date;
  */
 public class Product implements Serializable {
 
-    private String id; // 主键
-    private String productNum; // 编号 唯一
-    private String productName; // 名称
+    private Object id; // 主键
+    private Object productNum; // 编号 唯一
+    private Object productName; // 名称
     private String cityName; // 出发城市
     @DateTimeFormat(pattern = "yyyy-MM-dd HH:mm")
     private Date departureTime; // 出发时间
@@ -23,23 +23,23 @@ public class Product implements Serializable {
     private Integer productStatus; // 状态 0 关闭 1 开启
     private String productStatusStr;
 
-    public String getId() {
+    public Object getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(Object id) {
         this.id = id;
     }
 
-    public String getProductNum() {
+    public Object getProductNum() {
         return productNum;
     }
 
-    public void setProductNum(String productNum) {
+    public void setProductNum(Object productNum) {
         this.productNum = productNum;
     }
 
-    public String getProductName() {
+    public Object getProductName() {
         return productName;
     }
 

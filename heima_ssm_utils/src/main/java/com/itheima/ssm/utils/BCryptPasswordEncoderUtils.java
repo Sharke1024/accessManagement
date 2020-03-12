@@ -15,7 +15,7 @@ public class BCryptPasswordEncoderUtils {
     }
 
     public static void main(String[] args) {
-        String password = "bob";
+        String password = "kiss";
         String pwd = passwordEncoder(password);
         //$2a$10$MmrC8y4FNmuah/aJ67Nuku5mIg0evuB9sN5es/0LFJvcSu1AubHca
         //$2a$10$F0cVFswXbgclmb8itXPxsOd8.lSqSKP9Sl.oOd8mX.kBp0QucBHfi

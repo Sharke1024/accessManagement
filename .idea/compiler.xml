@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="heima_ssm_web" />
+        <module name="heima_ssm_utils" />
         <module name="heima_ssm_service" />
         <module name="heima_ssm_dao" />
-        <module name="heima_ssm_utils" />
+        <module name="heima_ssm_web" />
         <module name="heima_ssm_domain" />
       </profile>
     </annotationProcessing>

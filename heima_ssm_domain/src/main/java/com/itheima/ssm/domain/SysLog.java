@@ -9,7 +9,7 @@ import java.util.Date;
  */
 public class SysLog {
 
-    private String id;
+    private Object id;
     private Date visitTime;
     private String visitTimeStr;
     private String username;
@@ -18,11 +18,11 @@ public class SysLog {
     private Long executionTime;
     private String method;
 
-    public String getId() {
+    public Object getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(Object id) {
         this.id = id;
     }
 

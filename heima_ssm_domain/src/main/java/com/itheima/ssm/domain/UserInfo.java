@@ -7,7 +7,7 @@ import java.util.List;
  * 用户表实现类
  */
 public class UserInfo implements Serializable {
-    private String id;
+    private Object id;
     private String username;
     private String email;
     private String password;
@@ -16,11 +16,11 @@ public class UserInfo implements Serializable {
     private String statusStr;
     private List<Role> roles;
 
-    public String getId() {
+    public Object getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(Object id) {
         this.id = id;
     }
 

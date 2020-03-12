@@ -4,17 +4,17 @@ import java.io.Serializable;
 
 public class Member implements Serializable {
 
-    private String id;
+    private Object id;
     private String name;
     private String nickname;
     private String phoneNum;
     private String email;
 
-    public String getId() {
+    public Object getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(Object id) {
         this.id = id;
     }
 

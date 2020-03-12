@@ -8,8 +8,8 @@ import java.util.List;
 
 public class Orders implements Serializable {
 
-    private String id;
-    private String orderNum;
+    private Object id;
+    private Object orderNum;
     private Date orderTime;
     private String orderTimeStr;
     private int orderStatus;
@@ -36,19 +36,19 @@ public class Orders implements Serializable {
         this.orderStatusStr = orderStatusStr;
     }
 
-    public String getId() {
+    public Object getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(Object id) {
         this.id = id;
     }
 
-    public String getOrderNum() {
+    public Object getOrderNum() {
         return orderNum;
     }
 
-    public void setOrderNum(String orderNum) {
+    public void setOrderNum(Object orderNum) {
         this.orderNum = orderNum;
     }
 

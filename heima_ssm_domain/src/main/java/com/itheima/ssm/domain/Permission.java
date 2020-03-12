@@ -7,16 +7,16 @@ import java.util.List;
  * 资源权限表实现类
  */
 public class Permission implements Serializable {
-    private String id;
+    private Object id;
     private String permissionName;
     private String url;
     private List<Role> roles;
 
-    public String getId() {
+    public Object getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(Object id) {
         this.id = id;
     }
 

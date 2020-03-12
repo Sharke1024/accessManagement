@@ -8,17 +8,17 @@ import java.util.List;
  */
 public class Role implements Serializable {
 
-    private String id;
+    private Object id;
     private String roleName;
     private String roleDesc;
     private List<Permission> permissions;
     private List<UserInfo> users;
 
-    public String getId() {
+    public Object getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(Object id) {
         this.id = id;
     }
 

@@ -23,6 +23,6 @@ public interface ISysLogDao {
      * @return
      * @throws Exception
      */
-    @Select("select * from syslog")
+    @Select("select * from sysLog")
     List<SysLog> findAll() throws Exception;
 }

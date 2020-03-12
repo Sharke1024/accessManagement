@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class Traveller  implements Serializable {
 
-    private String id;
+    private Object id;
     private String name;
     private String sex;
     private String phoneNum;
@@ -14,11 +14,11 @@ public class Traveller  implements Serializable {
     private Integer travellerType;
     private String travellerTypeStr;
 
-    public String getId() {
+    public Object getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(Object id) {
         this.id = id;
     }
 
