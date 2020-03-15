@@ -2,21 +2,21 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/heima_ssm_dao" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/heima_ssm_dao/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/heima_ssm_dao/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/heima_ssm_domain" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/heima_ssm_domain/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/heima_ssm_domain/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/heima_ssm_service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/heima_ssm_service/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/heima_ssm_service/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/heima_ssm_utils" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/heima_ssm_utils/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/heima_ssm_utils/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/heima_ssm_web" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/heima_ssm_web/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/heima_ssm_web/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/manager.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/admin_dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin_dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin_dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin_domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin_domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin_domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin_utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin_utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin_utils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin_web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin_web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manager_oracle.sql" charset="GBK" />
   </component>
 </project>
