@@ -56,7 +56,6 @@ public class LogAop {
             }
             clazz.getMethod(methodName,classArgs);
         }
-
     }
 
     /**
