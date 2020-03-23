@@ -38,7 +38,7 @@ public class LogAop {
      * 前置通知
      *      主要获取开始执行时间，执行的类是哪一个，执行的是哪一个方法
      */
-    @Before("execution(* com.itheima.ssm.controller.*.*(..))")
+    @Before("execution(* com.github.ssm.controller.*.*(..))")
     public void doBefore(JoinPoint jp) throws NoSuchMethodException {
         visitTime = new Date();  //开始的时间
         clazz = jp.getTarget().getClass(); //具体要访问的类
@@ -60,7 +60,7 @@ public class LogAop {
     /**
      * 后置通知
      */
-    @After("execution(* com.itheima.ssm.controller.*.*(..))")
+    @After("execution(* com.github.ssm.controller.*.*(..))")
     public void doAfter(JoinPoint jp) throws Exception {
 
         long time= new Date().getTime() - visitTime.getTime();  //访问时长
