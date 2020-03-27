@@ -8,9 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="admin_domain" />
         <module name="admin_utils" />
-        <module name="admin_dao" />
-        <module name="admin_web" />
         <module name="admin_service" />
+        <module name="admin_web" />
+        <module name="admin_dao" />
       </profile>
     </annotationProcessing>
   </component>

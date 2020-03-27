@@ -78,7 +78,6 @@ public class LogAop {
                     String[] methodValue = methodAnnotation.value();
                     url = classValue[0]+methodValue[0];
 
-
                     //获取访问的ip
                     String ip = request.getRemoteAddr();
 
